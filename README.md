@@ -9,7 +9,6 @@ Additionally, a new quote and background color will automatically load every 25 
 
 Thanks for checking out my project!
 
-Sincerely,
 Ellie
 
 P.S. For questions, comments, or bug reports, please feel free to email me at elise.mathews@outlook.com
