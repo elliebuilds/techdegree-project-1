@@ -1,5 +1,6 @@
 # Techdegree Project 1
- My first Techdegree project
+
+My first project for the Full Stack JavaScript Team Treehouse Techdegree
 
 This is a random quote generator built with HTML, CSS, and JavaScript that can be run from your browser. 
 
