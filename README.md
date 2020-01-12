@@ -1,6 +1,6 @@
 # Techdegree Project 1
 
-This is my first project for the Full Stack JavaScript Team Treehouse Techdegree.
+## Description
 
 This is a random quote generator built with HTML, CSS, and JavaScript that can be run from your browser. 
 
@@ -8,12 +8,18 @@ Upon clicking the "Show Another Quote" button, a new randomly selected inspirati
 
 Additionally, a new quote and background color will automatically load every 25 seconds.
 
+## Contact
+
 Thanks for checking out my project!
+
+For questions, comments, or bug reports, please feel free to email me at elise.mathews@outlook.com
 
 Ellie
 
-P.S. For questions, comments, or bug reports, please feel free to email me at elise.mathews@outlook.com.
+## Notes
 
-Notes:
+My first project for the Full Stack JavaScript Team Treehouse Techdegree
+
 Started in December 2019, finished in January 2020
+
 Aiming for score of 'Exceeds Expectations'
