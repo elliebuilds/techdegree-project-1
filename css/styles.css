@@ -115,6 +115,21 @@ h1 {
   font-style: normal;
 }
 
+.category {
+  padding-top: 5%;
+}
+
+.source-description {
+  line-height: 1.5em;
+}
+
+.category,
+.source-description
+ {
+  text-align: center;
+  opacity: 0.5;
+}
+
 @media (min-width: 768px) {
   body {
     padding: 25px;
@@ -163,4 +178,23 @@ h1 {
   .source {
     font-size: 1.25rem;
   }
+
+  .category,
+  .source-description {
+    padding-top: 5%;
+    line-height: 1.5em;
+  }
+
+  .category {
+    float: left;
+  }
+
+  .source-description {
+    float: right;
+  }
+
+  .clear {
+    clear: both;
+  }
+
 }
